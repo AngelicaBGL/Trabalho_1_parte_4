@@ -29,23 +29,9 @@ header nav ul li a {
 }
 
 
-footer table {
-    width: 100%;
-    margin-top: 10px;
-    text-align: left;
-}
-
-footer table td {
-    padding: 10px;
-}
-
-footer table img {
-    vertical-align: middle;
-}
-
 /* Estilo do rodapé */
 footer {
-    background-color: #3498db;
+    background-color: #444;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -86,7 +72,7 @@ input[type="text"]:focus, input[type="password"]:focus {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #3498db;
+    background-color: #444;
     color: white;
     border: none;
     border-radius: 5px;
@@ -94,5 +80,5 @@ button {
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #ccc;
 }
